@@ -10,4 +10,7 @@ public class FirstClass {
         System.out.println("hello 1");
         System.out.println("hello 1");
     }
+    public void eat(){
+        System.out.println("吃饭饭");
+    }
 }
