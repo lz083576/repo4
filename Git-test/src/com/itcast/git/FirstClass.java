@@ -13,4 +13,8 @@ public class FirstClass {
     public void eat(){
         System.out.println("吃饭饭");
     }
+
+    public void eat2(){
+        System.out.println("吃饭2");
+    }
 }
